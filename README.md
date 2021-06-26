@@ -1,8 +1,8 @@
 <div align="center">
+  
+![GLUG Logo](assets/images/logo_full_rect.png)   
+#  GLUG MVIT Official Blog
 
-# GLUG MVIT Official Blog
-
-![GLUG Logo](assets/images/logo_full_rect.png)
 
 [![build](https://github.com/glugmvit/glugmvit.github.io/workflows/build/badge.svg)](https://github.com/glugmvit/glugmvit.github.io/actions)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b11a39f5293b4ba2b23537354721fdb5)](https://www.codacy.com/manual/cseas/glugmvit.github.io/dashboard)
@@ -11,9 +11,9 @@
 
 [Instagram](https://www.instagram.com/glugmvit/)   \|   [LinkedIn](https://in.linkedin.com/company/glugmvit)   \|   [Facebook](https://www.facebook.com/glugmvit/)   \|   [Email](mailto:glugmvit@gmail.com)   \|   [Twitter](https://twitter.com/glugmvit)
 
-</div>
 
-### Tutorials
+
+## Tutorials
 
 #### (A) Machine Learning Series
 
@@ -52,6 +52,8 @@
 [![7](https://sourcerer.io/fame/cseas/glugmvit/glugmvit.github.io/images/7)](https://sourcerer.io/fame/cseas/glugmvit/glugmvit.github.io/links/7)
 
 * * *
+  
+</div>
 
 ### Get involved
 
@@ -66,6 +68,8 @@ Thank you!
 
 * * *
 
+<div align="center">
+
 ### Copyright
 
 Copyright (C) 2019 GLUG MVIT
@@ -73,3 +77,5 @@ Copyright (C) 2019 GLUG MVIT
 **blog.glugmvit.com** is designed and maintained by [GLUG MVIT](https://www.glugmvit.com) and it is licensed [MIT](https://github.com/glugmvit/glugmvit.github.io/blob/master/LICENSE).
 
 [1]: https://blog.glugmvit.com/email-classifier/
+  
+</div>  
